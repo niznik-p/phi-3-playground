@@ -1,12 +1,12 @@
 # phi-3-playground
 Working on using [Phi-3](https://huggingface.co/microsoft/Phi-3-mini-128k-instruct) with PyTorch in multiple environments
 
-**Local:** MacBook Pro 16-inch 2023 w/ M2 Pro & 32 GB RAM *(Typical Footprint: ~16 GB in RAM)*
+**Local:** MacBook Pro 16-inch 2023 w/ M2 Pro & 32 GB RAM *(Typical Footprint: ~16 GB in RAM)*<br>
 **Remote:** [Adroit](https://researchcomputing.princeton.edu/systems/adroit) *(Typical Footprint: ~9 GB in GPU)*
 
 ## Model Location
 
-You'll have to update *_PHI_PATH to match wherever you've downloaded Phi-3
+You'll have to update `*_PHI_PATH` to match wherever you've downloaded Phi-3
 
 ## Environment
 
